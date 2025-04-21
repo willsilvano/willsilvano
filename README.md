@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Willian!
 
-<!--
-**willsilvano/willsilvano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Tech Lead no [Soluções Digitais - SENAI](https://sc.senai.br).
 
-Here are some ideas to get you started:
+💻 Desenvolvedor em Visão Computacional e soluções com IA
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Foco atual
+
+Trabalhando com segmentação de imagens e autoamações com agentes de I.A.
+
+---
+
+## ⚒️ Tech Stack
+- **IA & Dados**: OpenCV, Scikit-Learn, YOLO, Pandas, Numpy, Detectron
+- **Backend/API**: FastAPI, Flask, PHP, PostgreSQL
+- **DevOps**: Docker, Kubernetes, GitHub Actions, Azure DevOps
+- **Frontend**: VueJS, TailwindCSS
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Tecnologias |
+|--------|-----------|-------------|
+| [Chatbot Financeiro - LangGraph Finances Agent](https://github.com/willsilvano/scoras-academy-langgraph-finances-agent) | Agente de IA para responder perguntas sobre finanças pessoais com base em planilha Google. | Python, LangGraph, Google Sheets, Duckdb |
+
+---
+
+## 📬 Vamos nos conectar!
+- LinkedIn: [linkedin.com/in/willsilvano](https://www.linkedin.com/in/willsilvano/)  
+
+---
+
+⭐ Curtiu algum projeto? Deixa uma estrela e me chama pra conversar!
