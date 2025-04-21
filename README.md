@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o Willian!
 
-🎯 Tech Lead no [Soluções Digitais - SENAI](https://sc.senai.br).
+🎯 Tech Lead no [Soluções Digitais - SENAI/SC](https://sc.senai.br).
 
 💻 Desenvolvedor em Visão Computacional e soluções com IA
 
